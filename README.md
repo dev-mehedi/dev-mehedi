@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
-- 👨‍💻 All of my projects are available at [mahmudurmrm.netlify.app](mahmudurmrm.netlify.app)
+- 👨‍💻 Find my portfolio at [mahmudurmrm.netlify.app](mahmudurmrm.netlify.app)
 
 - 📫 How to reach me **mehedi.mrm@gmail.com**
 
